@@ -1,2 +1,2 @@
 # 01-Guessing
- Guessing Game 
+ Guessing Game for C220 class
